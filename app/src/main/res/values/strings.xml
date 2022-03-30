@@ -4,7 +4,7 @@
     <string name="hitungpangkat_index">Cobalah untuk menghitung pangkat dari sebuah angka dengan memasukan angka dan pangkat!</string>
     <string name="angka">Angka</string>
     <string name="pangkat" >Pangkat</string>
-    <string name="hitungPangkat_x">Hasil Pangkat: %1$.1f</string>
+    <string name="hitungPangkat_x">Hasil Pangkat = %1$.1f</string>
     <string name="angka_invalid">Angka tidak boleh kosong.</string>
     <string name="pangkat_invalid">Pangkat tidak boleh kosong.</string>
     <string name="clearButton">Clear</string>
