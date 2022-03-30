@@ -7,7 +7,7 @@ android {
     compileSdk 32
 
     defaultConfig {
-        applicationId "org.d3if0059.hitungbmi"
+        applicationId "org.d3if0059.hitungPangkat"
         minSdk 21
         targetSdk 32
         versionCode 1

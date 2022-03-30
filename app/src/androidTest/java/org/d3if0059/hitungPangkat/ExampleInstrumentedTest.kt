@@ -1,4 +1,4 @@
-package org.d3if0059.hitungbmi
+package org.d3if0059.hitungPangkat
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

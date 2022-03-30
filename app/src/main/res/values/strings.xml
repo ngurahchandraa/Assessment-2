@@ -1,22 +1,11 @@
 <resources>
-    <string name="app_name">Hitung BMI</string>
-    <string name="hitungBmi">Hitung</string>
-    <string name="bmi_index">BMI, atau Body Mass Index merupakan cara untuk menentukan apakah berat badanmu ideal atau tidak. Cobalah sekarang!</string>
-    <string name="berat_badan">Berat Badan (kg)</string>
-    <string name="beratEditText" />
-    <string name="number" />
-    <string name="tinggi_badan" >Tinggi Badan (cm)</string>
-    <string name="jenis_kelamin">Jenis Kelamin</string>
-    <string name="priaRadioButton">Pria</string>
-    <string name="wanitaRadioButton">Wanita</string>
-    <string name="bmi_x">BMI: %1$.2f</string>
-    <string name="kurus">Kurus</string>
-    <string name="ideal">Ideal</string>
-    <string name="gemuk">Gemuk</string>
-    <string name="kategori_x">Kategori: %1$s</string>
-    <string name="berat_invalid">Berat tidak boleh kosong.</string>
-    <string name="tinggi_invalid">Tinggi tidak boleh kosong.</string>
-    <string name="gender_invalid">Pilih jenis kelamin.</string>
-    <string name="pria">Pria</string>
+    <string name="app_name">Hitung Pangkat</string>
+    <string name="hitungPangkat">Hitung</string>
+    <string name="hitungpangkat_index">Cobalah untuk menghitung pangkat dari sebuah angka dengan memasukan angka dan pangkat!</string>
+    <string name="angka">Angka</string>
+    <string name="pangkat" >Pangkat</string>
+    <string name="hitungPangkat_x">Hasil Pangkat: %1$.1f</string>
+    <string name="angka_invalid">Angka tidak boleh kosong.</string>
+    <string name="pangkat_invalid">Pangkat tidak boleh kosong.</string>
     <string name="clearButton">Clear</string>
 </resources>
