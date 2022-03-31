@@ -10,4 +10,6 @@
     <color name="pink_200">#F48FB1</color>
     <color name="pink_500">#E91E63</color>
     <color name="pink_700">#C2185B</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="orange">#E14A1B</color>
 </resources>
