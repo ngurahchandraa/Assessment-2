@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Hitung Pangkat</string>
+    <string name="app_name">Hitung Pangkat dan Akar</string>
     <string name="hitungPangkat">Hitung</string>
     <string name="hitungpangkat_index">Cobalah untuk menghitung pangkat dari sebuah angka dengan memasukan angka dan pangkat!</string>
     <string name="angka">Angka</string>
@@ -8,4 +8,8 @@
     <string name="angka_invalid">Angka tidak boleh kosong.</string>
     <string name="pangkat_invalid">Pangkat tidak boleh kosong.</string>
     <string name="clearButton">Clear</string>
+    <string name="hitungAkar_index">Cobalah menghitung akar dari sebuah angka!</string>
+    <string name="buttonAkarKuadrat">Akar Kuadrat</string>
+    <string name="buttonAkarKubik">Akar Kubik</string>
+    <string name="hitungAkar_x">Hasil Akar = %1$.1f</string>
 </resources>
