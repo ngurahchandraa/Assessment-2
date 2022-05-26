@@ -5,9 +5,12 @@
       <map>
         <entry key="..\:/Asessment/app/src/main/res/font/alegreya_sans_medium.xml" value="0.1" />
         <entry key="..\:/Asessment/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Asessment/app/src/main/res/layout/fragment_about.xml" value="0.2" />
         <entry key="..\:/Asessment/app/src/main/res/layout/fragment_hitung.xml" value="0.25416666666666665" />
         <entry key="..\:/Asessment/app/src/main/res/layout/fragment_main.xml" value="0.264" />
+        <entry key="..\:/Asessment/app/src/main/res/layout/fragment_saran.xml" value="0.264" />
         <entry key="..\:/Asessment/app/src/main/res/layout/list_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Asessment/app/src/main/res/menu/options_menu.xml" value="0.25416666666666665" />
         <entry key="..\:/HitungBMI/app/src/main/res/font/.xml" value="0.1" />
         <entry key="..\:/HitungBMI/app/src/main/res/font/actor.xml" value="0.1" />
         <entry key="..\:/HitungBMI/app/src/main/res/font/akaya_telivigala.xml" value="0.2101851851851852" />

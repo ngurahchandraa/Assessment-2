@@ -12,4 +12,15 @@
     <string name="buttonAkarKuadrat">Akar Kuadrat</string>
     <string name="buttonAkarKubik">Akar Kubik</string>
     <string name="hitungAkar_x">Hasil Akar = %1$.1f</string>
+    <string name="judul_saran">Saran Untukmu!</string>
+    <string name="saran_untukmu">Gampang Bukan Menghitung Pangkat dan Akar ? Jika hanya menggunakan aplikasi untuk menghitung terlalu gampang
+        Cobalah untuk menghitung sendiri, itu akan lebih baik untukmu!.</string>
+    <string name="lihat_saran">Saran Untukmu!</string>
+    <string name="tentang_aplikasi">Tentang Aplikasi</string>
+    <string name="copyright">Hitung Pangkat dan Akar merupakan sebuah aplikasi yang digunakan untuk menghitung
+        pangkat dari sebuah angka, begitu juga dapat menghitung akar dari sebuah angka.\n\nAplikasi ini dibuat untuk
+        memenuhi tugas Assessment 2 MOBPRO.</string>
+    <string name="bagikan">Bagikan</string>
+    <string name="bagikan_template">Aplikasi Hitung Pangkat dan Akar</string>
+
 </resources>
